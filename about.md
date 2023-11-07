@@ -15,6 +15,5 @@ layout: page
 	<li>CSS</li>
 	<li>Git</li>
 	<li>Wordpress</li>
-	<li>MySQL - MongoDB</li>
 	<li>CCNA (soon)</li>
 </ul>
