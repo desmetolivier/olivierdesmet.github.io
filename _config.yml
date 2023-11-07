@@ -1,14 +1,14 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Olivier De Smet
+bio: Do not tell anyone, but I am a ninja
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media.licdn.com/dms/image/D4E03AQHkkI-e_Fw-3g/profile-displayphoto-shrink_200_200/0/1692285951819?e=1704931200&v=beta&t=gmX3ZpmaWqpUBb-8AI_L6sSMQqbbJMk_bYyf7aLsNVo
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
